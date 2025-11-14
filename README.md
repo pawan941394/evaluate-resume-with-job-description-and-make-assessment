@@ -4,8 +4,8 @@
 <p>
 <strong>An AI-powered agent that ingests a resume (PDF / Image / Text) and a Job Description, then produces an objective assessment and interactive multiple-choice questions with instant feedback.</strong>
 </p>
+<img width="1600" height="4767" alt="1" src="https://github.com/user-attachments/assets/daeebe4c-b0a0-4bcd-a3e9-db290460a248"   width="650"/>
 
-<img src="./platform images/1.png" alt="Demo" width="650" />
 <br/>
 <a href="#features"><img src="https://img.shields.io/badge/status-active-brightgreen" /></a>
 <a href="#tech-stack"><img src="https://img.shields.io/badge/python-3.10+-blue" /></a>
