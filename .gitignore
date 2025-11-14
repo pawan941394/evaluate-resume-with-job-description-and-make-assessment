@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environments
+.venv/
+env/
+venv/
+
+# Data / state
+user_memories/*.db
+user_memories/*.sqlite
+
+# Streamlit cache
+.streamlit/
+
+# OS / misc
+*.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local temp files
+*.tmp
+tmp/
+
+# Images / large artifacts (keep resume samples if desired)
+platform images/
